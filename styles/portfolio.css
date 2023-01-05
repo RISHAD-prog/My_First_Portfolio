@@ -22,7 +22,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 
 }
 
@@ -40,7 +40,7 @@ nav li {
 .btn-primary {
     background-color: #ff7b00;
     height: 50px;
-    width: 100px;
+    width: 150px;
     border: 0;
 }
 
